@@ -1,8 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UIElements;
 using UnityEngine.VFX;
-using static UnityEditor.FilePathAttribute;
 
 namespace SpaceGame
 {
